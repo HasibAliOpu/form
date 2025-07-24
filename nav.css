@@ -1,0 +1,16 @@
+ul {
+  display: flex;
+}
+li {
+  list-style: none;
+}
+li:hover {
+  background-color: gainsboro;
+  border-radius: 5px;
+}
+
+li a {
+  color: black;
+  margin: 4px;
+  text-decoration: none;
+}
